@@ -41139,7 +41139,7 @@ class EthHelper {
 /* 58 */
 /***/ (function(module, exports) {
 
-module.exports = {"network-name":"MainNet","contracts":{"_0xbitcointoken":{"name":"0xBitcoinToken","blockchain_address":"0x860df4c4a3ec207be16e39f96c8802470db9e799"}}}
+module.exports = {"network-name":"MainNet","contracts":{"_0xbitcointoken":{"name":"0xBitcoinToken","blockchain_address":"0x33d99efc0c3cc4f93da6931ec2cccf19ca874b6d"}}}
 
 /***/ }),
 /* 59 */
